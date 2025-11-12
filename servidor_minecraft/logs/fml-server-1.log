@@ -1,0 +1,1025 @@
+[03:32:16] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[03:32:16] [main/INFO] [FML/]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[03:32:16] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_462, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[03:32:16] [main/DEBUG] [FML/]: Java classpath at launch is /workspaces/server-de-pollos/servidor_minecraft/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+[03:32:16] [main/DEBUG] [FML/]: Java library path at launch is /tmp/_MEIaB3sf9:/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[03:32:16] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[03:32:16] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[03:32:16] [main/DEBUG] [FML/]: Added access transformer class cpw.mods.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[03:32:16] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[03:32:16] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[03:32:16] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.transformers.ForgeAccessTransformer to enqueued access transformers
+[03:32:16] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[03:32:16] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[03:32:16] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /workspaces/server-de-pollos/servidor_minecraft/.
+[03:32:16] [main/DEBUG] [FML/]: Discovering coremods
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy 1Legends-1.7.10-6.15.jar
+[03:32:16] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in 1Legends-1.7.10-6.15.jar, it will be examined later for regular @Mod instances
+[03:32:16] [main/DEBUG] [FML/]: Instantiating coremod class LegendsLoadingPlugin
+[03:32:16] [main/DEBUG] [FML/]: The coremod com.tihyo.legends.management.asm.LegendsLoadingPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[03:32:16] [main/DEBUG] [FML/]: Enqueued coremod LegendsLoadingPlugin
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy [1.7.10] Jewelrycraft2-1.1.4-universal.jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in [1.7.10] Jewelrycraft2-1.1.4-universal.jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy [1.7.10] SecurityCraft v1.8.13.jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in [1.7.10] SecurityCraft v1.8.13.jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy [1.7.10]+SecurityCraft+v1.8.13.jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in [1.7.10]+SecurityCraft+v1.8.13.jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy AnimationAPI-1.7.10-1.2.4.jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in AnimationAPI-1.7.10-1.2.4.jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy appliedenergistics2-rv2-stable-10.jar
+[03:32:16] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in appliedenergistics2-rv2-stable-10.jar, it will be examined later for regular @Mod instances
+[03:32:16] [main/DEBUG] [FML/]: Instantiating coremod class AppEngCore
+[03:32:16] [main/DEBUG] [FML/]: The coremod appeng.transformer.AppEngCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[03:32:16] [main/INFO] [FML/]: [AppEng] Core Init
+[03:32:16] [main/DEBUG] [FML/]: Added access transformer class appeng.transformer.asm.ASMTweaker to enqueued access transformers
+[03:32:16] [main/DEBUG] [FML/]: Enqueued coremod AppEngCore
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy ArchimedesShips-1.7.1.jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in ArchimedesShips-1.7.1.jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy Armourers-Workshop-1.7.10-0.48.3.jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in Armourers-Workshop-1.7.10-0.48.3.jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy Baubles-1.7.10-1.0.1.10.jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in Baubles-1.7.10-1.0.1.10.jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy BiblioCraft[v1.11.7][MC1.7.10].jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in BiblioCraft[v1.11.7][MC1.7.10].jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy Carpenter's+Blocks+v3.3.8.2+-+MC+1.7.10.jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in Carpenter's+Blocks+v3.3.8.2+-+MC+1.7.10.jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy ChickenChunks-1.7.10-1.3.4.19-universal.jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in ChickenChunks-1.7.10-1.3.4.19-universal.jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy Chisel-2.9.5.11.jar
+[03:32:16] [main/DEBUG] [FML/]: Not found coremod data in Chisel-2.9.5.11.jar
+[03:32:16] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenCore.jar
+[03:32:16] [main/TRACE] [FML/]: Adding CodeChickenCore.jar to the list of known coremods, it will not be examined again
+[03:32:16] [main/DEBUG] [FML/]: Instantiating coremod class CodeChickenCorePlugin
+[03:32:17] [main/WARN] [FML/]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:32:17] [main/DEBUG] [FML/]: Added access transformer class codechicken.core.asm.CodeChickenAccessTransformer to enqueued access transformers
+[03:32:17] [main/DEBUG] [FML/]: Enqueued coremod CodeChickenCorePlugin
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy CoFHCore-[1.7.10]3.1.4-329.jar
+[03:32:17] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in CoFHCore-[1.7.10]3.1.4-329.jar, it will be examined later for regular @Mod instances
+[03:32:17] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[03:32:17] [main/WARN] [FML/]: The coremod cofh.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:32:17] [main/DEBUG] [FML/]: Added access transformer class cofh.asm.CoFHAccessTransformer to enqueued access transformers
+[03:32:17] [main/DEBUG] [FML/]: Enqueued coremod LoadingPlugin
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy Controlling-1.7.10-1.0.0.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in Controlling-1.7.10-1.0.0.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy darkcore-0.3-86.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in darkcore-0.3-86.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy Decocraft-2.4.2_1.7.10.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in Decocraft-2.4.2_1.7.10.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy denseores-1.6.2.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in denseores-1.6.2.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderCore-1.7.10-0.2.0.39_beta.jar
+[03:32:17] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in EnderCore-1.7.10-0.2.0.39_beta.jar, it will be examined later for regular @Mod instances
+[03:32:17] [main/DEBUG] [FML/]: Instantiating coremod class EnderCorePlugin
+[03:32:17] [main/DEBUG] [FML/]: The coremod com.enderio.core.common.transform.EnderCorePlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[03:32:17] [main/DEBUG] [FML/]: Enqueued coremod EnderCorePlugin
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderIO-1.7.10-2.3.0.429_beta.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in EnderIO-1.7.10-2.3.0.429_beta.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy EquivalentExchange3-1.7.10-0.3.0.547.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in EquivalentExchange3-1.7.10-0.3.0.547.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ExtraCells-1.7.10-2.3.14b200.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in ExtraCells-1.7.10-2.3.14b200.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy extrautilities-1.2.12.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in extrautilities-1.2.12.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy fastcraft-1.25.jar
+[03:32:17] [main/INFO] [FML/]: Loading tweaker fastcraft.Tweaker from fastcraft-1.25.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy FastLeafDecay-1.7.10-1.4.jar
+[03:32:17] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in FastLeafDecay-1.7.10-1.4.jar, it will be examined later for regular @Mod instances
+[03:32:17] [main/DEBUG] [FML/]: Instantiating coremod class FldLoadingPlugin
+[03:32:17] [main/DEBUG] [FML/]: The coremod com.olafski.fastleafdecay.FldLoadingPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[03:32:17] [main/DEBUG] [FML/]: Enqueued coremod FldLoadingPlugin
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+[03:32:17] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in ForgeMultipart-1.7.10-1.2.0.345-universal.jar, it will be examined later for regular @Mod instances
+[03:32:17] [main/DEBUG] [FML/]: Instantiating coremod class DepLoader
+[03:32:17] [main/WARN] [FML/]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:32:17] [main/DEBUG] [FML/]: Enqueued coremod DepLoader
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ForgeRelocation-1.7.10-0.0.1.4-universal.jar
+[03:32:17] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in ForgeRelocation-1.7.10-0.0.1.4-universal.jar, it will be examined later for regular @Mod instances
+[03:32:17] [main/DEBUG] [FML/]: Instantiating coremod class RelocationPlugin
+[03:32:17] [main/WARN] [FML/]: The coremod mrtjp.relocation.asm.RelocationPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:32:17] [main/DEBUG] [FML/]: Enqueued coremod RelocationPlugin
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy GravityGun-4.0.0-beta.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in GravityGun-4.0.0-beta.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy Hats-4.0.1.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in Hats-4.0.1.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy HatStand-4.0.0.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in HatStand-4.0.0.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy iChunUtil-4.2.3.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in iChunUtil-4.2.3.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy inventorypets-1.7.10-1.5.2-universal.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in inventorypets-1.7.10-1.5.2-universal.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ironchest-1.7.10-6.0.62.742-universal.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in ironchest-1.7.10-6.0.62.742-universal.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy Jabba-1.2.2_1.7.10.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in Jabba-1.2.2_1.7.10.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy journeymap-1.7.10-5.1.4p2-unlimited.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in journeymap-1.7.10-5.1.4p2-unlimited.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy LootBags-1.7.10-2.0.17.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in LootBags-1.7.10-2.0.17.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy magicalcrops-1.7.10_0.1.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in magicalcrops-1.7.10_0.1.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy Mantle-1.7.10-0.3.2b.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in Mantle-1.7.10-0.3.2b.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy Mekanism-1.7.10-9.1.1.1031.jar
+[03:32:17] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.7.10-9.1.1.1031.jar, it will be examined later for regular @Mod instances
+[03:32:17] [main/DEBUG] [FML/]: Instantiating coremod class LoadingHook
+[03:32:17] [main/WARN] [FML/]: The coremod mekanism.common.asm.LoadingHook does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:32:17] [main/DEBUG] [FML/]: Enqueued coremod LoadingHook
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy MekanismGenerators-1.7.10-9.1.1.1031.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in MekanismGenerators-1.7.10-9.1.1.1031.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy MekanismTools-1.7.10-9.1.1.1031.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in MekanismTools-1.7.10-9.1.1.1031.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy MobiusCore-1.2.5_1.7.10.jar
+[03:32:17] [main/TRACE] [FML/]: Adding MobiusCore-1.2.5_1.7.10.jar to the list of known coremods, it will not be examined again
+[03:32:17] [main/DEBUG] [FML/]: Instantiating coremod class CoreDescription
+[03:32:17] [main/WARN] [FML/]: The coremod mcp.mobius.mobiuscore.asm.CoreDescription does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:32:17] [main/DEBUG] [FML/]: Added access transformer class mcp.mobius.mobiuscore.asm.CoreAccessTransformer to enqueued access transformers
+[03:32:17] [main/DEBUG] [FML/]: Enqueued coremod CoreDescription
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy MobProperties-1.7.10-1.0.2.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in MobProperties-1.7.10-1.0.2.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy Morph-Beta-0.9.3.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in Morph-Beta-0.9.3.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy MrTJPCore-1.7.10-1.1.0.33-universal.jar
+[03:32:17] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in MrTJPCore-1.7.10-1.1.0.33-universal.jar, it will be examined later for regular @Mod instances
+[03:32:17] [main/DEBUG] [FML/]: Instantiating coremod class CorePlugin
+[03:32:17] [main/WARN] [FML/]: The coremod mrtjp.core.handler.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:32:17] [main/DEBUG] [FML/]: Enqueued coremod CorePlugin
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy MutantCreatures-1.7.10-1.4.9.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in MutantCreatures-1.7.10-1.4.9.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy neiaddons-1.12.14.40-mc1.7.10.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in neiaddons-1.12.14.40-mc1.7.10.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy NEIIntegration-MC1.7.10-1.1.2.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in NEIIntegration-MC1.7.10-1.1.2.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy NEIlootbags-1.7.10-1.1.3.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in NEIlootbags-1.7.10-1.1.3.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy NetherOres-[1.7.10]2.3.1-22.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in NetherOres-[1.7.10]2.3.1-22.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy NotEnoughItems-1.7.10-1.0.5.111-universal.jar
+[03:32:17] [main/TRACE] [FML/]: Adding NotEnoughItems-1.7.10-1.0.5.111-universal.jar to the list of known coremods, it will not be examined again
+[03:32:17] [main/DEBUG] [FML/]: Instantiating coremod class NEICorePlugin
+[03:32:17] [main/WARN] [FML/]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:32:17] [main/DEBUG] [FML/]: Enqueued coremod NEICorePlugin
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy OreExcavation-1.1.134.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in OreExcavation-1.1.134.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy Origin-1.7.10-8.0.3.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in Origin-1.7.10-8.0.3.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy PandorasBox-2.1.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in PandorasBox-2.1.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy PortalGun-4.0.0-beta-6-fix-1.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in PortalGun-4.0.0-beta-6-fix-1.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ProjectE-1.7.10-PE1.10.1.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in ProjectE-1.7.10-PE1.10.1.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
+[03:32:17] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in ProjectRed-1.7.10-4.7.0pre12.95-Base.jar, it will be examined later for regular @Mod instances
+[03:32:17] [main/DEBUG] [FML/]: Instantiating coremod class DepLoader
+[03:32:17] [main/WARN] [FML/]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:32:17] [main/DEBUG] [FML/]: Enqueued coremod DepLoader
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy Railcraft_1.7.10-9.12.2.0.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in Railcraft_1.7.10-9.12.2.0.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy secretroomsmod-1.7.10-4.7.1.413.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in secretroomsmod-1.7.10-4.7.1.413.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy SoulShards-TOW-1.7.10-0.1-RC9-7.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in SoulShards-TOW-1.7.10-0.1-RC9-7.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy tardismod-1.7.10-0.994-124-DS.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in tardismod-1.7.10-0.994-124-DS.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy TConstruct-1.7.10-1.8.8.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in TConstruct-1.7.10-1.8.8.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy TextureGeneratorLib-1.7.10_vBeta2.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in TextureGeneratorLib-1.7.10_vBeta2.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy TheKitchenMod-1.3.23-1.7.2-10.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in TheKitchenMod-1.3.23-1.7.2-10.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ThermalExpansion-[1.7.10]4.1.5-248.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in ThermalExpansion-[1.7.10]4.1.5-248.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy ThermalFoundation-[1.7.10]1.2.6-118.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in ThermalFoundation-[1.7.10]1.2.6-118.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy TrailMix-4.0.0.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in TrailMix-4.0.0.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy Transformers Mod.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in Transformers Mod.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy twilightforest-1.7.10-2.3.8.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in twilightforest-1.7.10-2.3.8.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy witchery-1.7.10-0.24.1.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in witchery-1.7.10-0.24.1.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy WTFCaveBiomes-1.7.10_v1.6.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in WTFCaveBiomes-1.7.10_v1.6.jar
+[03:32:17] [main/DEBUG] [FML/]: Examining for coremod candidacy WTFCore-1.7.10_v1.7.jar
+[03:32:17] [main/DEBUG] [FML/]: Not found coremod data in WTFCore-1.7.10_v1.7.jar
+[03:32:17] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:32:17] [main/INFO] [LaunchWrapper/]: Loading tweak class name fastcraft.Tweaker
+[03:32:17] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[03:32:17] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:32:17] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:32:17] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:17] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+[03:32:17] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+[03:32:17] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+[03:32:17] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+[03:32:17] [main/DEBUG] [FML/]: Injection complete
+[03:32:17] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+[03:32:17] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[03:32:17] [main/DEBUG] [FML/]: Read 527 binary patches
+[03:32:18] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[03:32:18] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod CCCDeobfPlugin {codechicken.core.asm.MCPDeobfuscationTransformer$LoadPlugin} class transformers
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for CCCDeobfPlugin {codechicken.core.asm.MCPDeobfuscationTransformer$LoadPlugin}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin CCCDeobfPlugin
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class LoadPlugin run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod LegendsLoadingPlugin {com.tihyo.legends.management.asm.LegendsLoadingPlugin} class transformers
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerModelBiped
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerEntityPlayer
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerItemRenderer
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerRenderPlayer
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerEntityLivingBase
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerEffectRenderer
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerColor
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerMinecraftServer
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerEntity
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerEntityOtherPlayerMP
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerEntityRenderer
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerEntityPlayerSP
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerRenderBiped
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerGuiInventory
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerFoodStats
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.tihyo.legends.management.asm.TransformerWorld
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for LegendsLoadingPlugin {com.tihyo.legends.management.asm.LegendsLoadingPlugin}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin LegendsLoadingPlugin
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class LegendsLoadingPlugin run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod AppEngCore {appeng.transformer.AppEngCore} class transformers
+[03:32:18] [main/TRACE] [FML/]: Registering transformer appeng.transformer.asm.ASMIntegration
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for AppEngCore {appeng.transformer.AppEngCore}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin AppEngCore
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class AppEngCore run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin} class transformers
+[03:32:18] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.ClassHeirachyManager
+[03:32:18] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.InterfaceDependancyTransformer
+[03:32:18] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.TweakTransformer
+[03:32:18] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.DelegatedTransformer
+[03:32:18] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.DefaultImplementationTransformer
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin CodeChickenCorePlugin
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class CodeChickenCorePlugin run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod DepLoader {codechicken.core.launch.DepLoader} class transformers
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for DepLoader {codechicken.core.launch.DepLoader}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin DepLoader
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class DepLoader run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod RelocationPlugin {mrtjp.relocation.asm.RelocationPlugin} class transformers
+[03:32:18] [main/TRACE] [FML/]: Registering transformer mrtjp.relocation.asm.Transformer
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for RelocationPlugin {mrtjp.relocation.asm.RelocationPlugin}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin RelocationPlugin
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class RelocationPlugin run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod LoadingHook {mekanism.common.asm.LoadingHook} class transformers
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for LoadingHook {mekanism.common.asm.LoadingHook}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin LoadingHook
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class LoadingHook run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod CoreDescription {mcp.mobius.mobiuscore.asm.CoreDescription} class transformers
+[03:32:18] [main/TRACE] [FML/]: Registering transformer mcp.mobius.mobiuscore.asm.CoreTransformer
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for CoreDescription {mcp.mobius.mobiuscore.asm.CoreDescription}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin CoreDescription
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class CoreDescription run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod CorePlugin {mrtjp.core.handler.CorePlugin} class transformers
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for CorePlugin {mrtjp.core.handler.CorePlugin}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin CorePlugin
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class CorePlugin run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod NEICorePlugin {codechicken.nei.asm.NEICorePlugin} class transformers
+[03:32:18] [main/TRACE] [FML/]: Registering transformer codechicken.nei.asm.NEITransformer
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for NEICorePlugin {codechicken.nei.asm.NEICorePlugin}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin NEICorePlugin
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class NEICorePlugin run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod DepLoader {codechicken.core.launch.DepLoader} class transformers
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for DepLoader {codechicken.core.launch.DepLoader}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin DepLoader
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class DepLoader run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[03:32:18] [main/DEBUG] [FML/]: Loaded 57 rules from AccessTransformer config file fml_at.cfg
+[03:32:18] [main/DEBUG] [FML/]: Loaded 89 rules from AccessTransformer config file forge_at.cfg
+[03:32:18] [main/DEBUG] [FML/]: Loaded 57 rules from AccessTransformer config file fml_at.cfg
+[03:32:18] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer config file mobius_at.cfg
+[03:32:18] [main/DEBUG] [FML/]: Loaded 60 rules from AccessTransformer mod jar file /workspaces/server-de-pollos/servidor_minecraft/mods/iChunUtil-4.2.3.jar!META-INF/iChunUtil_at.cfg
+
+[03:32:18] [main/DEBUG] [FML/]: Loaded 11 rules from AccessTransformer mod jar file /workspaces/server-de-pollos/servidor_minecraft/mods/NotEnoughItems-1.7.10-1.0.5.111-universal.jar!META-INF/nei_at.cfg
+
+[03:32:18] [main/DEBUG] [FML/]: Loaded 4 rules from AccessTransformer mod jar file /workspaces/server-de-pollos/servidor_minecraft/mods/Chisel-2.9.5.11.jar!META-INF/chisel_compile_at.cfg
+
+[03:32:18] [main/DEBUG] [FML/]: Loaded 6 rules from AccessTransformer mod jar file /workspaces/server-de-pollos/servidor_minecraft/mods/witchery-1.7.10-0.24.1.jar!META-INF/witchery_at.cfg
+
+[03:32:18] [main/DEBUG] [FML/]: Loaded 5 rules from AccessTransformer mod jar file /workspaces/server-de-pollos/servidor_minecraft/mods/ChickenChunks-1.7.10-1.3.4.19-universal.jar!META-INF/chickenchunks_at.cfg
+
+[03:32:18] [main/DEBUG] [FML/]: Loaded 31 rules from AccessTransformer mod jar file /workspaces/server-de-pollos/servidor_minecraft/mods/TConstruct-1.7.10-1.8.8.jar!META-INF/TConstruct_at.cfg
+
+[03:32:18] [main/DEBUG] [FML/]: Loaded 1 rules from AccessTransformer mod jar file /workspaces/server-de-pollos/servidor_minecraft/mods/Decocraft-2.4.2_1.7.10.jar!META-INF/decocraft_at.cfg
+
+[03:32:18] [main/DEBUG] [FML/]: Validating minecraft
+[03:32:18] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod LoadingPlugin {cofh.asm.LoadingPlugin} class transformers
+[03:32:18] [main/TRACE] [FML/]: Registering transformer cofh.asm.CoFHClassTransformer
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for LoadingPlugin {cofh.asm.LoadingPlugin}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin LoadingPlugin
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class LoadingPlugin run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod FldLoadingPlugin {com.olafski.fastleafdecay.FldLoadingPlugin} class transformers
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.olafski.fastleafdecay.FldTransformer
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for FldLoadingPlugin {com.olafski.fastleafdecay.FldLoadingPlugin}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin FldLoadingPlugin
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class FldLoadingPlugin run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:32:18] [main/DEBUG] [FML/]: Injecting coremod EnderCorePlugin {com.enderio.core.common.transform.EnderCorePlugin} class transformers
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.enderio.core.common.transform.EnderCoreTransformer
+[03:32:18] [main/TRACE] [FML/]: Registering transformer com.enderio.core.common.transform.EnderCoreTransformerClient
+[03:32:18] [main/DEBUG] [FML/]: Injection complete
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin for EnderCorePlugin {com.enderio.core.common.transform.EnderCorePlugin}
+[03:32:18] [main/DEBUG] [FML/]: Running coremod plugin EnderCorePlugin
+[03:32:18] [main/DEBUG] [FML/]: Coremod plugin class EnderCorePlugin run successfully
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class fastcraft.Tweaker
+[03:32:18] [main/DEBUG] [FastCraft/]: Mod detection results: {AsRuins=false, Bukkit=false, ColoredLights=false, OptiFine=false, ShadersMod=false, DynamicLights=false, NotEnoughIds=false}
+[03:32:18] [main/INFO] [FastCraft/]: FastCraft loaded.
+[03:32:18] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[03:32:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[03:32:18] [main/DEBUG] [FastCraft/]: 1 / 21 applied
+[03:32:18] [main/TRACE] [FastCraft/]: 63f669b5 2fef7b47 6a792565 1463c0bd 9bae9211 c8279ba2 46e1af46 c1b32f3c 1ec4aa5e 7952d9ec 0dbb15ab 2c267258 77ccc8dd 937f2c9e 84274be4 ce4e7906 6518b690 e5fd58fe c8fae051 deca7f5d
+[03:32:18] [main/INFO] [MobiusCore/]: Current code is OBFUSCATED
+[03:32:18] [main/INFO] [MobiusCore/]: [MobiusCore] Found net.minecraft.world.WorldServer [ mt ] with checksum C886BCD50DD675F403ECA0A1C11D15FA
+[03:32:18] [main/INFO] [MobiusCore/]: Successful injection in b ()V
+[03:32:18] [main/INFO] [MobiusCore/]: Successful injection in b ()V
+[03:32:19] [main/INFO] [MobiusCore/]: Found cpw.mods.fml.common.FMLCommonHandler with checksum F626A08BBC07AE3F7D88072FDFDAE36E
+[03:32:19] [main/INFO] [MobiusCore/]: Successful injection in onPreServerTick ()V
+[03:32:19] [main/INFO] [MobiusCore/]: Successful injection in onPostServerTick ()V
+[03:32:19] [main/INFO] [MobiusCore/]: Successful injection in onPreWorldTick (Lahb;)V
+[03:32:19] [main/INFO] [MobiusCore/]: Successful injection in onPostWorldTick (Lahb;)V
+[03:32:19] [main/DEBUG] [CCL ASM/]: Injecting before method [dh.toString()Ljava/lang/String;] @ 51 - 55
+[03:32:19] [main/INFO] [MobiusCore/]: Switching injection mode to FORGE
+[03:32:19] [main/INFO] [MobiusCore/]: [MobiusCore] Found net.minecraft.world.World [ ahb ] with checksum 76F958154F79225616CADDB91B615170
+[03:32:19] [main/INFO] [MobiusCore/]: Found World.updateEntities()...
+[03:32:19] [main/INFO] [MobiusCore/]: Successful injection in h ()V
+[03:32:19] [main/INFO] [MobiusCore/]: Successful injection in h ()V
+[03:32:19] [main/INFO] [MobiusCore/]: Successful injection in h ()V
+[03:32:19] [main/INFO] [MobiusCore/]: Successful injection in h ()V
+[03:32:19] [main/INFO] [MobiusCore/]: Found World.<init> (Lazc;Ljava/lang/String;Lahj;Laqo;Lqi;)V
+[03:32:19] [main/INFO] [MobiusCore/]: Successful injection in <init> (Lazc;Ljava/lang/String;Lahj;Laqo;Lqi;)V
+[03:32:19] [main/INFO] [MobiusCore/]: Successful injection in <init> (Lazc;Ljava/lang/String;Lahj;Laqo;Lqi;)V
+[03:32:19] [main/DEBUG] [FastCraft/]: 2 / 21 applied
+[03:32:19] [main/TRACE] [FastCraft/]: 63f669b5 2fef7b47 6a792565 1463c0bd 9bae9211 c8279ba2 46e1af46 c1b32f3c 1ec4aa5e 7952d9ec 2c267258 77ccc8dd 937f2c9e 84274be4 ce4e7906 6518b690 e5fd58fe c8fae051 deca7f5d
+[03:32:19] [main/DEBUG] [FastCraft/]: 3 / 21 applied
+[03:32:19] [main/TRACE] [FastCraft/]: 63f669b5 2fef7b47 6a792565 1463c0bd 9bae9211 c8279ba2 c1b32f3c 1ec4aa5e 7952d9ec 2c267258 77ccc8dd 937f2c9e 84274be4 ce4e7906 6518b690 e5fd58fe c8fae051 deca7f5d
+[03:32:19] [main/DEBUG] [FastCraft/]: 4 / 21 applied
+[03:32:19] [main/TRACE] [FastCraft/]: 63f669b5 2fef7b47 6a792565 1463c0bd 9bae9211 c8279ba2 c1b32f3c 1ec4aa5e 7952d9ec 2c267258 77ccc8dd 84274be4 ce4e7906 6518b690 e5fd58fe c8fae051 deca7f5d
+[03:32:19] [main/DEBUG] [FastCraft/]: 5 / 21 applied
+[03:32:19] [main/TRACE] [FastCraft/]: 63f669b5 2fef7b47 6a792565 1463c0bd 9bae9211 c8279ba2 c1b32f3c 1ec4aa5e 7952d9ec 2c267258 77ccc8dd 84274be4 ce4e7906 6518b690 e5fd58fe deca7f5d
+[03:32:19] [main/DEBUG] [FastCraft/]: 6 / 21 applied
+[03:32:19] [main/TRACE] [FastCraft/]: 63f669b5 2fef7b47 6a792565 1463c0bd c8279ba2 c1b32f3c 1ec4aa5e 7952d9ec 2c267258 77ccc8dd 84274be4 ce4e7906 6518b690 e5fd58fe deca7f5d
+[03:32:19] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[03:32:19] [main/DEBUG] [CCL ASM/]: Writing method [aji.canBeReplacedByLeaves(Lahl;III)Z]
+[03:32:19] [main/INFO] [FastLeafDecay/]: Patching leaves.
+[03:32:19] [main/INFO] [FastLeafDecay/]: Found leaf Class: net/minecraft/block/BlockLeavesBase
+[03:32:19] [main/INFO] [EnderCore/]: Transforming Class [net.minecraft.entity.projectile.EntityArrow], Method [func_70071_h_]
+[03:32:19] [main/INFO] [EnderCore/]: Transforming net.minecraft.entity.projectile.EntityArrow Finished.
+[03:32:19] [main/DEBUG] [CCL ASM/]: Injecting before method [dq.toString()Ljava/lang/String;] @ 56 - 60
+[03:32:19] [main/DEBUG] [FastCraft/]: 7 / 21 applied
+[03:32:19] [main/TRACE] [FastCraft/]: 63f669b5 2fef7b47 6a792565 1463c0bd c8279ba2 c1b32f3c 1ec4aa5e 7952d9ec 77ccc8dd 84274be4 ce4e7906 6518b690 e5fd58fe deca7f5d
+[03:32:19] [main/DEBUG] [FastCraft/]: 8 / 21 applied
+[03:32:19] [main/TRACE] [FastCraft/]: 63f669b5 2fef7b47 6a792565 1463c0bd c8279ba2 c1b32f3c 1ec4aa5e 7952d9ec 84274be4 ce4e7906 6518b690 e5fd58fe deca7f5d
+[03:32:19] [main/DEBUG] [FastCraft/]: 9 / 21 applied
+[03:32:19] [main/TRACE] [FastCraft/]: 2fef7b47 6a792565 1463c0bd c8279ba2 c1b32f3c 1ec4aa5e 7952d9ec 84274be4 ce4e7906 6518b690 e5fd58fe deca7f5d
+[03:32:19] [main/INFO] [EnderCore/]: Transforming Class [net.minecraft.item.ItemStack], Method [func_77953_t]
+[03:32:19] [main/INFO] [EnderCore/]: Transforming net.minecraft.item.ItemStack Finished.
+[03:32:19] [main/INFO] [EnderCore/]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[03:32:19] [main/INFO] [EnderCore/]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[03:32:20] [main/DEBUG] [FastCraft/]: 10 / 21 applied
+[03:32:20] [main/TRACE] [FastCraft/]: 2fef7b47 6a792565 c8279ba2 c1b32f3c 1ec4aa5e 7952d9ec 84274be4 ce4e7906 6518b690 e5fd58fe deca7f5d
+[03:32:20] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[03:32:20] [Server thread/INFO] [FML/]: MinecraftForge v10.13.4.1614 Initialized
+[03:32:20] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[03:32:20] [Server thread/DEBUG] [FastCraft/]: 11 / 21 applied
+[03:32:20] [Server thread/TRACE] [FastCraft/]: 2fef7b47 6a792565 c8279ba2 c1b32f3c 7952d9ec 84274be4 ce4e7906 6518b690 e5fd58fe deca7f5d
+[03:32:20] [Server thread/DEBUG] [FastCraft/]: 12 / 21 applied
+[03:32:20] [Server thread/TRACE] [FastCraft/]: 2fef7b47 6a792565 c8279ba2 c1b32f3c 84274be4 ce4e7906 6518b690 e5fd58fe deca7f5d
+[03:32:20] [Server thread/DEBUG] [FastCraft/]: 13 / 21 applied
+[03:32:20] [Server thread/TRACE] [FastCraft/]: 2fef7b47 6a792565 c8279ba2 c1b32f3c 84274be4 ce4e7906 6518b690 e5fd58fe
+[03:32:20] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[03:32:20] [Server thread/DEBUG] [FML/]: File /workspaces/server-de-pollos/servidor_minecraft/config/injectedDependencies.json not found. No dependencies injected
+[03:32:20] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [cpw.mods.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer, appeng.transformer.AppEngCore, codechicken.core.asm.CodeChickenCoreModContainer, mcp.mobius.mobiuscore.asm.CoreContainer, codechicken.nei.NEIModContainer, cofh.asm.LoadingPlugin$CoFHDummyContainer, fastcraft.f]
+[03:32:20] [Server thread/INFO] [FML/]: [AppEng] Core Init
+[03:32:20] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /workspaces/server-de-pollos/servidor_minecraft/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar, examining for mod candidates
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/1Legends-1.7.10-6.15.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/appliedenergistics2-rv2-stable-10.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/CodeChickenCore.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a minecraft related file at /workspaces/server-de-pollos/servidor_minecraft/./mods/1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar, examining for mod candidates
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/CoFHCore-[1.7.10]3.1.4-329.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/EnderCore-1.7.10-0.2.0.39_beta.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/fastcraft-1.25.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/FastLeafDecay-1.7.10-1.4.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/1.7.10/ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/1.7.10/ForgeRelocation-1.7.10-0.0.1.4-universal.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/Mekanism-1.7.10-9.1.1.1031.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/MobiusCore-1.2.5_1.7.10.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/1.7.10/MrTJPCore-1.7.10-1.1.0.33-universal.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/NotEnoughItems-1.7.10-1.0.5.111-universal.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping known library file /workspaces/server-de-pollos/servidor_minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[03:32:20] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[03:32:20] [Server thread/INFO] [FML/]: Searching /workspaces/server-de-pollos/servidor_minecraft/mods for mods
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate mod directory 1.7.10
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file 1Legends-1.7.10-6.15.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file [1.7.10] Jewelrycraft2-1.1.4-universal.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file [1.7.10] SecurityCraft v1.8.13.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file [1.7.10]+SecurityCraft+v1.8.13.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file AnimationAPI-1.7.10-1.2.4.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file appliedenergistics2-rv2-stable-10.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ArchimedesShips-1.7.1.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Armourers-Workshop-1.7.10-0.48.3.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Baubles-1.7.10-1.0.1.10.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file BiblioCraft[v1.11.7][MC1.7.10].jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Carpenter's+Blocks+v3.3.8.2+-+MC+1.7.10.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate mod directory carpentersblocks
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ChickenChunks-1.7.10-1.3.4.19-universal.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Chisel-2.9.5.11.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker CodeChickenCore.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file CoFHCore-[1.7.10]3.1.4-329.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Controlling-1.7.10-1.0.0.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file darkcore-0.3-86.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Decocraft-2.4.2_1.7.10.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file denseores-1.6.2.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file EnderCore-1.7.10-0.2.0.39_beta.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file EnderIO-1.7.10-2.3.0.429_beta.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file EquivalentExchange3-1.7.10-0.3.0.547.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ExtraCells-1.7.10-2.3.14b200.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file extrautilities-1.2.12.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker fastcraft-1.25.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file FastLeafDecay-1.7.10-1.4.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file fpsplus.zip
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file GravityGun-4.0.0-beta.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Hats-4.0.1.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file HatStand-4.0.0.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file iChunUtil-4.2.3.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file inventorypets-1.7.10-1.5.2-universal.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ironchest-1.7.10-6.0.62.742-universal.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Jabba-1.2.2_1.7.10.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file journeymap-1.7.10-5.1.4p2-unlimited.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file LootBags-1.7.10-2.0.17.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file magicalcrops-1.7.10_0.1.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Mantle-1.7.10-0.3.2b.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Mekanism-1.7.10-9.1.1.1031.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file MekanismGenerators-1.7.10-9.1.1.1031.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file MekanismTools-1.7.10-9.1.1.1031.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker MobiusCore-1.2.5_1.7.10.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file MobProperties-1.7.10-1.0.2.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Morph-Beta-0.9.3.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file MutantCreatures-1.7.10-1.4.9.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file neiaddons-1.12.14.40-mc1.7.10.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file NEIIntegration-MC1.7.10-1.1.2.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file NEIlootbags-1.7.10-1.1.3.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file NetherOres-[1.7.10]2.3.1-22.jar
+[03:32:20] [Server thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker NotEnoughItems-1.7.10-1.0.5.111-universal.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file OreExcavation-1.1.134.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Origin-1.7.10-8.0.3.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file PandorasBox-2.1.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file PortalGun-4.0.0-beta-6-fix-1.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Ignoring unknown file PortalGunSounds.pak in mods directory
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ProjectE-1.7.10-PE1.10.1.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Railcraft_1.7.10-9.12.2.0.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate mod directory saintspack
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate mod directory SaintsPack-0.8-Minecraft_1.7.10
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file secretroomsmod-1.7.10-4.7.1.413.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file SoulShards-TOW-1.7.10-0.1-RC9-7.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file tardismod-1.7.10-0.994-124-DS.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file TConstruct-1.7.10-1.8.8.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file TextureGeneratorLib-1.7.10_vBeta2.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file TheKitchenMod-1.3.23-1.7.2-10.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ThermalExpansion-[1.7.10]4.1.5-248.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ThermalFoundation-[1.7.10]1.2.6-118.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file TrailMix-4.0.0.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Transformers Mod.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file twilightforest-1.7.10-2.3.8.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file witchery-1.7.10-0.24.1.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file WTFCaveBiomes-1.7.10_v1.6.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file WTFCore-1.7.10_v1.7.jar
+[03:32:20] [Server thread/INFO] [FML/]: Also searching /workspaces/server-de-pollos/servidor_minecraft/mods/1.7.10 for mods
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ForgeRelocation-1.7.10-0.0.1.4-universal.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file MrTJPCore-1.7.10-1.1.0.33-universal.jar
+[03:32:20] [Server thread/DEBUG] [FML/]: Examining file forge-1.7.10-10.13.4.1614-1.7.10-universal.jar for potential mods
+[03:32:20] [Server thread/DEBUG] [FML/]: The mod container forge-1.7.10-10.13.4.1614-1.7.10-universal.jar appears to be missing an mcmod.info file
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file CodeChickenLib-1.7.10-1.1.3.138-universal.jar for potential mods
+[03:32:21] [Server thread/DEBUG] [FML/]: The mod container CodeChickenLib-1.7.10-1.1.3.138-universal.jar appears to be missing an mcmod.info file
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining directory 1.7.10 for potential mods
+[03:32:21] [Server thread/DEBUG] [FML/]: No mcmod.info file found in directory 1.7.10
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file 1Legends-1.7.10-6.15.jar for potential mods
+[03:32:21] [Server thread/TRACE] [FML/]: Located mcmod.info file in file 1Legends-1.7.10-6.15.jar
+[03:32:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.tihyo.legends.common.Main) - loading
+[03:32:21] [Server thread/TRACE] [legends/]: Parsed dependency info : [] [] []
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file [1.7.10] Jewelrycraft2-1.1.4-universal.jar for potential mods
+[03:32:21] [Server thread/TRACE] [FML/]: Located mcmod.info file in file [1.7.10] Jewelrycraft2-1.1.4-universal.jar
+[03:32:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (darkknight.jewelrycraft.JewelrycraftMod) - loading
+[03:32:21] [Server thread/TRACE] [jewelrycraft2/]: Using mcmod dependency info : [Forge] [EE3] []
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file [1.7.10] SecurityCraft v1.8.13.jar for potential mods
+[03:32:21] [Server thread/DEBUG] [FML/]: The mod container [1.7.10] SecurityCraft v1.8.13.jar appears to be missing an mcmod.info file
+[03:32:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (net.geforcemods.securitycraft.SecurityCraft) - loading
+[03:32:21] [Server thread/TRACE] [securitycraft/]: Parsed dependency info : [Forge@[10.13.4.1558,)] [Forge@[10.13.4.1558,), LookingGlass@[0.2.0.01,)] []
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file [1.7.10]+SecurityCraft+v1.8.13.jar for potential mods
+[03:32:21] [Server thread/DEBUG] [FML/]: The mod container [1.7.10]+SecurityCraft+v1.8.13.jar appears to be missing an mcmod.info file
+[03:32:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (net.geforcemods.securitycraft.SecurityCraft) - loading
+[03:32:21] [Server thread/TRACE] [securitycraft/]: Parsed dependency info : [Forge@[10.13.4.1558,)] [Forge@[10.13.4.1558,), LookingGlass@[0.2.0.01,)] []
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file AnimationAPI-1.7.10-1.2.4.jar for potential mods
+[03:32:21] [Server thread/TRACE] [FML/]: Located mcmod.info file in file AnimationAPI-1.7.10-1.2.4.jar
+[03:32:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (thehippomaster.AnimationAPI.AnimationAPI) - loading
+[03:32:21] [Server thread/TRACE] [AnimationAPI/]: Parsed dependency info : [] [] []
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file appliedenergistics2-rv2-stable-10.jar for potential mods
+[03:32:21] [Server thread/TRACE] [FML/]: Located mcmod.info file in file appliedenergistics2-rv2-stable-10.jar
+[03:32:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (appeng.core.AppEng) - loading
+[03:32:21] [Server thread/TRACE] [appliedenergistics2/]: Parsed dependency info : [Forge@[10.13.2.1291,)] [appliedenergistics2-core, Forge@[10.13.2.1291,)] []
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file ArchimedesShips-1.7.1.jar for potential mods
+[03:32:21] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ArchimedesShips-1.7.1.jar
+[03:32:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (ckathode.archimedes.ArchimedesShipMod) - loading
+[03:32:21] [Server thread/TRACE] [ArchimedesShips/]: Parsed dependency info : [] [] []
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file Armourers-Workshop-1.7.10-0.48.3.jar for potential mods
+[03:32:21] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Armourers-Workshop-1.7.10-0.48.3.jar
+[03:32:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (riskyken.armourersWorkshop.ArmourersWorkshop) - loading
+[03:32:21] [Server thread/TRACE] [armourersWorkshop/]: Parsed dependency info : [] [] []
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file Baubles-1.7.10-1.0.1.10.jar for potential mods
+[03:32:21] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Baubles-1.7.10-1.0.1.10.jar
+[03:32:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (baubles.common.Baubles) - loading
+[03:32:21] [Server thread/TRACE] [Baubles/]: Parsed dependency info : [Forge@[10.13.2,)] [Forge@[10.13.2,)] []
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file BiblioCraft[v1.11.7][MC1.7.10].jar for potential mods
+[03:32:21] [Server thread/TRACE] [FML/]: Located mcmod.info file in file BiblioCraft[v1.11.7][MC1.7.10].jar
+[03:32:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (jds.bibliocraft.BiblioCraft) - loading
+[03:32:21] [Server thread/TRACE] [BiblioCraft/]: Parsed dependency info : [] [] []
+[03:32:21] [Server thread/DEBUG] [FML/]: Examining file Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar for potential mods
+[03:32:21] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar
+[03:32:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.carpentersblocks.CarpentersBlocks) - loading
+[03:32:21] [Server thread/TRACE] [CarpentersBlocks/]: Parsed dependency info : [Forge@[10.13.0.1180,)] [Forge@[10.13.0.1180,)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file Carpenter's+Blocks+v3.3.8.2+-+MC+1.7.10.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Carpenter's+Blocks+v3.3.8.2+-+MC+1.7.10.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.carpentersblocks.CarpentersBlocks) - loading
+[03:32:22] [Server thread/TRACE] [CarpentersBlocks/]: Parsed dependency info : [Forge@[10.13.0.1180,)] [Forge@[10.13.0.1180,)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining directory carpentersblocks for potential mods
+[03:32:22] [Server thread/DEBUG] [FML/]: No mcmod.info file found in directory carpentersblocks
+[03:32:22] [Server thread/TRACE] [FML/]: Recursing into package CarpentersBlocksCachedResources
+[03:32:22] [Server thread/TRACE] [FML/]: Recursing into package CarpentersBlocksCachedResources.assets
+[03:32:22] [Server thread/TRACE] [FML/]: Recursing into package CarpentersBlocksCachedResources.assets.carpentersblockscachedresources
+[03:32:22] [Server thread/TRACE] [FML/]: Recursing into package CarpentersBlocksCachedResources.assets.carpentersblockscachedresources.textures
+[03:32:22] [Server thread/TRACE] [FML/]: Recursing into package CarpentersBlocksCachedResources.assets.carpentersblockscachedresources.textures.blocks
+[03:32:22] [Server thread/TRACE] [FML/]: Recursing into package CarpentersBlocksCachedResources.assets.carpentersblockscachedresources.textures.blocks.designs
+[03:32:22] [Server thread/TRACE] [FML/]: Recursing into package CarpentersBlocksCachedResources.assets.carpentersblockscachedresources.textures.blocks.designs.bed
+[03:32:22] [Server thread/TRACE] [FML/]: Recursing into package CarpentersBlocksCachedResources.assets.carpentersblockscachedresources.textures.blocks.designs.bed.cache
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file ChickenChunks-1.7.10-1.3.4.19-universal.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ChickenChunks-1.7.10-1.3.4.19-universal.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (codechicken.chunkloader.ChickenChunks) - loading
+[03:32:22] [Server thread/TRACE] [ChickenChunks/]: Parsed dependency info : [CodeChickenCore@[1.0.3,)] [CodeChickenCore@[1.0.3,)] []
+[03:32:22] [Server thread/DEBUG] [ChickenChunks/]: Attempting to load the file version.properties from ChickenChunks-1.7.10-1.3.4.19-universal.jar to locate a version number for ChickenChunks
+[03:32:22] [Server thread/WARN] [ChickenChunks/]: Mod ChickenChunks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.3.4.19
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file Chisel-2.9.5.11.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Chisel-2.9.5.11.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (team.chisel.Chisel) - loading
+[03:32:22] [Server thread/TRACE] [chisel/]: Parsed dependency info : [] [EE3, ForgeMultipart, Thaumcraft, appliedenergistics2, Railcraft, AWWayofTime, TwilightForest] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file CoFHCore-[1.7.10]3.1.4-329.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file CoFHCore-[1.7.10]3.1.4-329.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (cofh.CoFHCore) - loading
+[03:32:22] [Server thread/TRACE] [CoFHCore/]: Parsed dependency info : [Forge@[10.13.4.1448,10.14)] [Forge@[10.13.4.1448,10.14)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file Controlling-1.7.10-1.0.0.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Controlling-1.7.10-1.0.0.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (us.getfluxed.controlsearch.Control) - loading
+[03:32:22] [Server thread/TRACE] [controlling/]: Parsed dependency info : [] [] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file darkcore-0.3-86.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file darkcore-0.3-86.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (io.darkcraft.darkcore.mod.DarkcoreMod) - loading
+[03:32:22] [Server thread/TRACE] [darkcore/]: Parsed dependency info : [] [] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file Decocraft-2.4.2_1.7.10.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Decocraft-2.4.2_1.7.10.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.mia.craftstudio.minecraft.forge.CSLibMod) - loading
+[03:32:22] [Server thread/TRACE] [PTRModelLib/]: Parsed dependency info : [] [] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.mia.props.Props) - loading
+[03:32:22] [Server thread/TRACE] [props/]: Parsed dependency info : [] [PTRModelLib@[1.0.0,)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file denseores-1.6.2.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file denseores-1.6.2.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.rwtema.debug.DebugMod) - loading
+[03:32:22] [Server thread/TRACE] [debug/]: Parsed dependency info : [] [] [*]
+[03:32:22] [Server thread/INFO] [debug/]: Mod debug is missing the required element 'name'. Substituting debug
+[03:32:22] [Server thread/DEBUG] [debug/]: Attempting to load the file version.properties from denseores-1.6.2.jar to locate a version number for debug
+[03:32:22] [Server thread/WARN] [debug/]: Mod debug is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.rwtema.denseores.DenseOresMod) - loading
+[03:32:22] [Server thread/TRACE] [denseores/]: Parsed dependency info : [] [*] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file EnderCore-1.7.10-0.2.0.39_beta.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file EnderCore-1.7.10-0.2.0.39_beta.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.enderio.core.EnderCore) - loading
+[03:32:22] [Server thread/TRACE] [endercore/]: Parsed dependency info : [] [ttCore] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file EnderIO-1.7.10-2.3.0.429_beta.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file EnderIO-1.7.10-2.3.0.429_beta.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (crazypants.enderio.EnderIO) - loading
+[03:32:22] [Server thread/TRACE] [EnderIO/]: Parsed dependency info : [endercore@[1.7.10-0.2.0.35_beta,), Forge@[10.13.4.1448,)] [Forge@[10.13.4.1448,), endercore@[1.7.10-0.2.0.35_beta,), MineFactoryReloaded, Waila@[1.5.10,), Thaumcraft, appliedenergistics2@[rv2-beta-8,)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file EquivalentExchange3-1.7.10-0.3.0.547.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file EquivalentExchange3-1.7.10-0.3.0.547.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.pahimar.ee3.EquivalentExchange3) - loading
+[03:32:22] [Server thread/TRACE] [EE3/]: Parsed dependency info : [Forge@[10.13.3,)] [Forge@[10.13.3,)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file ExtraCells-1.7.10-2.3.14b200.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ExtraCells-1.7.10-2.3.14b200.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (extracells.Extracells) - loading
+[03:32:22] [Server thread/TRACE] [extracells/]: Parsed dependency info : [appliedenergistics2] [LogisticsPipes|Main, Waila, appliedenergistics2] []
+[03:32:22] [Server thread/DEBUG] [extracells/]: Attempting to load the file version.properties from ExtraCells-1.7.10-2.3.14b200.jar to locate a version number for extracells
+[03:32:22] [Server thread/DEBUG] [extracells/]: Found version 2.3.14 for mod extracells in version.properties, using
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file extrautilities-1.2.12.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file extrautilities-1.2.12.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.rwtema.extrautils.ExtraUtilsMod) - loading
+[03:32:22] [Server thread/TRACE] [ExtraUtilities/]: Parsed dependency info : [Forge@[10.13.2.1291,)] [Forge@[10.13.2.1291,), ForgeMultipart@[1.2.0.336,), Baubles, ThermalFoundation, EE3] [TConstruct@[1.7.10-1.8.5,)]
+[03:32:22] [Server thread/DEBUG] [ExtraUtilities/]: Attempting to load the file version.properties from extrautilities-1.2.12.jar to locate a version number for ExtraUtilities
+[03:32:22] [Server thread/WARN] [ExtraUtilities/]: Mod ExtraUtilities is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.12
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file FastLeafDecay-1.7.10-1.4.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file FastLeafDecay-1.7.10-1.4.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.olafski.fastleafdecay.FastLeafDecay) - loading
+[03:32:22] [Server thread/TRACE] [fastleafdecay/]: Parsed dependency info : [] [] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file fpsplus.zip for potential mods
+[03:32:22] [Server thread/DEBUG] [FML/]: The mod container fpsplus.zip appears to be missing an mcmod.info file
+[03:32:22] [Server thread/ERROR] [FML/]: Unable to read a class file correctly
+java.lang.ArrayIndexOutOfBoundsException: 41207
+	at org.objectweb.asm.ClassReader.readClass(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.accept(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.accept(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at cpw.mods.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:53) [ASMModParser.class:?]
+	at cpw.mods.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:72) [JarDiscoverer.class:?]
+	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:131) [ModDiscoverer.class:?]
+	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:364) [Loader.class:?]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:489) [Loader.class:?]
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:314) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:117) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[03:32:22] [Server thread/ERROR] [FML/]: There was a problem reading the entry qh.class in the jar /workspaces/server-de-pollos/servidor_minecraft/mods/fpsplus.zip - probably a corrupt zip
+cpw.mods.fml.common.LoaderException: java.lang.ArrayIndexOutOfBoundsException: 41207
+
+	at cpw.mods.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at cpw.mods.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:72) [JarDiscoverer.class:?]
+	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:131) [ModDiscoverer.class:?]
+	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:364) [Loader.class:?]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:489) [Loader.class:?]
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:314) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:117) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 41207
+	at org.objectweb.asm.ClassReader.readClass(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.accept(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.accept(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at cpw.mods.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:53) ~[ASMModParser.class:?]
+	... 11 more
+[03:32:22] [Server thread/WARN] [FML/]: Zip file fpsplus.zip failed to read properly, it will be ignored
+cpw.mods.fml.common.LoaderException: java.lang.ArrayIndexOutOfBoundsException: 41207
+
+	at cpw.mods.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at cpw.mods.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:72) [JarDiscoverer.class:?]
+	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:131) [ModDiscoverer.class:?]
+	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:364) [Loader.class:?]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:489) [Loader.class:?]
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:314) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:117) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 41207
+	at org.objectweb.asm.ClassReader.readClass(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.accept(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.accept(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at cpw.mods.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:53) ~[ASMModParser.class:?]
+	... 11 more
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file GravityGun-4.0.0-beta.jar for potential mods
+[03:32:22] [Server thread/DEBUG] [FML/]: The mod container GravityGun-4.0.0-beta.jar appears to be missing an mcmod.info file
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (gravigun.common.GraviGun) - loading
+[03:32:22] [Server thread/TRACE] [GraviGun/]: Parsed dependency info : [iChunUtil@[4.2.2,)] [iChunUtil@[4.2.2,)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file Hats-4.0.1.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Hats-4.0.1.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (hats.common.Hats) - loading
+[03:32:22] [Server thread/TRACE] [Hats/]: Parsed dependency info : [iChunUtil@[4.0.0,)] [iChunUtil@[4.0.0,)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file HatStand-4.0.0.jar for potential mods
+[03:32:22] [Server thread/DEBUG] [FML/]: The mod container HatStand-4.0.0.jar appears to be missing an mcmod.info file
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (hats.addons.hatstand.common.HatStand) - loading
+[03:32:22] [Server thread/TRACE] [HatStand/]: Parsed dependency info : [Hats@[4.0.0,)] [Hats@[4.0.0,)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file iChunUtil-4.2.3.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file iChunUtil-4.2.3.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (ichun.common.iChunUtil) - loading
+[03:32:22] [Server thread/TRACE] [iChunUtil/]: Parsed dependency info : [Forge@[10.13.2.1291,)] [Forge@[10.13.2.1291,)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file inventorypets-1.7.10-1.5.2-universal.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file inventorypets-1.7.10-1.5.2-universal.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.inventorypets.InventoryPets) - loading
+[03:32:22] [Server thread/TRACE] [InventoryPets/]: Parsed dependency info : [] [] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file ironchest-1.7.10-6.0.62.742-universal.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ironchest-1.7.10-6.0.62.742-universal.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (cpw.mods.ironchest.IronChest) - loading
+[03:32:22] [Server thread/TRACE] [IronChest/]: Parsed dependency info : [FML@[7.2,), Forge@[10.10,)] [Forge@[10.10,), FML@[7.2,)] []
+[03:32:22] [Server thread/DEBUG] [IronChest/]: Attempting to load the file version.properties from ironchest-1.7.10-6.0.62.742-universal.jar to locate a version number for IronChest
+[03:32:22] [Server thread/DEBUG] [IronChest/]: Found version 6.0.62.742 for mod IronChest in version.properties, using
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file Jabba-1.2.2_1.7.10.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Jabba-1.2.2_1.7.10.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mcp.mobius.betterbarrels.BetterBarrels) - loading
+[03:32:22] [Server thread/TRACE] [JABBA/]: Parsed dependency info : [] [Waila, NotEnoughItems] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file journeymap-1.7.10-5.1.4p2-unlimited.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file journeymap-1.7.10-5.1.4p2-unlimited.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (journeymap.common.Journeymap) - loading
+[03:32:22] [Server thread/TRACE] [journeymap/]: Using mcmod dependency info : [Forge@[10.13.4.1558,)] [Forge@[10.13.4.1558,)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file LootBags-1.7.10-2.0.17.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file LootBags-1.7.10-2.0.17.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mal.lootbags.LootBags) - loading
+[03:32:22] [Server thread/TRACE] [lootbags/]: Parsed dependency info : [] [] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file magicalcrops-1.7.10_0.1.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file magicalcrops-1.7.10_0.1.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.mark719.magicalcrops.MagicalCrops) - loading
+[03:32:22] [Server thread/TRACE] [magicalcrops/]: Parsed dependency info : [] [] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file Mantle-1.7.10-0.3.2b.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Mantle-1.7.10-0.3.2b.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mantle.Mantle) - loading
+[03:32:22] [Server thread/TRACE] [Mantle/]: Parsed dependency info : [Forge@[10.13,)] [Forge@[10.13,)] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file Mekanism-1.7.10-9.1.1.1031.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Mekanism-1.7.10-9.1.1.1031.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mekanism.common.Mekanism) - loading
+[03:32:22] [Server thread/TRACE] [Mekanism/]: Parsed dependency info : [] [ForgeMultipart, BuildCraft, BuildCraftAPI, IC2, CoFHCore, ComputerCraft, Galacticraft API, MetallurgyCore] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file MekanismGenerators-1.7.10-9.1.1.1031.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file MekanismGenerators-1.7.10-9.1.1.1031.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mekanism.generators.common.MekanismGenerators) - loading
+[03:32:22] [Server thread/TRACE] [MekanismGenerators/]: Parsed dependency info : [Mekanism] [Mekanism] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file MekanismTools-1.7.10-9.1.1.1031.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file MekanismTools-1.7.10-9.1.1.1031.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mekanism.tools.common.MekanismTools) - loading
+[03:32:22] [Server thread/TRACE] [MekanismTools/]: Parsed dependency info : [Mekanism] [Mekanism] []
+[03:32:22] [Server thread/DEBUG] [FML/]: Examining file MobProperties-1.7.10-1.0.2.jar for potential mods
+[03:32:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file MobProperties-1.7.10-1.0.2.jar
+[03:32:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (toast.mobProperties._MobPropertiesMod) - loading
+[03:32:22] [Server thread/TRACE] [MobProperties/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file Morph-Beta-0.9.3.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Morph-Beta-0.9.3.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (morph.common.Morph) - loading
+[03:32:23] [Server thread/TRACE] [Morph/]: Parsed dependency info : [iChunUtil@[4.0.0,)] [iChunUtil@[4.0.0,)] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file MrCrayfishFurnitureModv3.4.7(1.7.10).jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.mrcrayfish.furniture.MrCrayfishFurnitureMod) - loading
+[03:32:23] [Server thread/TRACE] [cfm/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file MutantCreatures-1.7.10-1.4.9.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file MutantCreatures-1.7.10-1.4.9.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (thehippomaster.MutantCreatures.MutantCreatures) - loading
+[03:32:23] [Server thread/TRACE] [MutantCreatures/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file neiaddons-1.12.14.40-mc1.7.10.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file neiaddons-1.12.14.40-mc1.7.10.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (net.bdew.neiaddons.NEIAddons) - loading
+[03:32:23] [Server thread/TRACE] [NEIAddons/]: Parsed dependency info : [] [NotEnoughItems] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (net.bdew.neiaddons.developer.AddonDeveloper) - loading
+[03:32:23] [Server thread/TRACE] [NEIAddons|Developer/]: Parsed dependency info : [] [NEIAddons] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (net.bdew.neiaddons.appeng.AddonAppeng) - loading
+[03:32:23] [Server thread/TRACE] [NEIAddons|AppEng/]: Parsed dependency info : [] [NEIAddons, appliedenergistics2] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (net.bdew.neiaddons.botany.AddonBotany) - loading
+[03:32:23] [Server thread/TRACE] [NEIAddons|Botany/]: Parsed dependency info : [] [NEIAddons, Botany] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (net.bdew.neiaddons.forestry.AddonForestry) - loading
+[03:32:23] [Server thread/TRACE] [NEIAddons|Forestry/]: Parsed dependency info : [] [NEIAddons, Forestry] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (net.bdew.neiaddons.crafting.AddonCraftingTables) - loading
+[03:32:23] [Server thread/TRACE] [NEIAddons|CraftingTables/]: Parsed dependency info : [] [NEIAddons] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (net.bdew.neiaddons.exnihilo.AddonExnihilo) - loading
+[03:32:23] [Server thread/TRACE] [NEIAddons|ExNihilo/]: Parsed dependency info : [] [exnihilo] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file NEIIntegration-MC1.7.10-1.1.2.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file NEIIntegration-MC1.7.10-1.1.2.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (tonius.neiintegration.NEIIntegration) - loading
+[03:32:23] [Server thread/TRACE] [neiintegration/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file NEIlootbags-1.7.10-1.1.3.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file NEIlootbags-1.7.10-1.1.3.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (NEILootbags.Neilootbags) - loading
+[03:32:23] [Server thread/TRACE] [NEIlootbags/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file NetherOres-[1.7.10]2.3.1-22.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file NetherOres-[1.7.10]2.3.1-22.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (powercrystals.netherores.NetherOresCore) - loading
+[03:32:23] [Server thread/TRACE] [NetherOres/]: Parsed dependency info : [CoFHCore@[1.7.10R3.1.0,1.7.10R3.2.0)] [CoFHCore@[1.7.10R3.1.0,1.7.10R3.2.0)] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file OreExcavation-1.1.134.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file OreExcavation-1.1.134.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (oreexcavation.core.OreExcavation) - loading
+[03:32:23] [Server thread/TRACE] [oreexcavation/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [oreexcavation/]: Attempting to load the file version.properties from OreExcavation-1.1.134.jar to locate a version number for oreexcavation
+[03:32:23] [Server thread/WARN] [oreexcavation/]: Mod oreexcavation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.134
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file Origin-1.7.10-8.0.3.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Origin-1.7.10-8.0.3.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.temportalist.origin.internal.common.Origin) - loading
+[03:32:23] [Server thread/TRACE] [origin/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.temportalist.origin.screwdriver.common.AddonScrewdriver) - loading
+[03:32:23] [Server thread/TRACE] [addonscrewdriver/]: Parsed dependency info : [origin] [origin, appliedenergistics2, BuildCraft|Core, CoFHLib, EnderIO, Railcraft, MineFactoryReloaded, ImmersiveEngineering] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file PandorasBox-2.1.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file PandorasBox-2.1.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (ivorius.pandorasbox.PandorasBox) - loading
+[03:32:23] [Server thread/TRACE] [pandorasbox/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file PortalGun-4.0.0-beta-6-fix-1.jar for potential mods
+[03:32:23] [Server thread/DEBUG] [FML/]: The mod container PortalGun-4.0.0-beta-6-fix-1.jar appears to be missing an mcmod.info file
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (portalgun.common.PortalGun) - loading
+[03:32:23] [Server thread/TRACE] [PortalGun/]: Parsed dependency info : [iChunUtil@[4.2.2,)] [iChunUtil@[4.2.2,)] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file ProjectE-1.7.10-PE1.10.1.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ProjectE-1.7.10-PE1.10.1.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (moze_intel.projecte.PECore) - loading
+[03:32:23] [Server thread/TRACE] [ProjectE/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file ProjectRed-1.7.10-4.7.0pre12.95-Base.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mrtjp.projectred.ProjectRedCore) - loading
+[03:32:23] [Server thread/TRACE] [ProjRed|Core/]: Using mcmod dependency info : [Forge, ForgeMultipart, MrTJPCoreMod] [ForgeMultipart, MrTJPCoreMod] [ProjRed|Transmission, ProjRed|Integration, ProjRed|Fabrication, ProjRed|Illumination, ProjRed|Expansion, ProjRed|Transportation, ProjRed|Exploration, ProjRed|Compatibility]
+[03:32:23] [Server thread/DEBUG] [ProjRed|Core/]: Attempting to load the file version.properties from ProjectRed-1.7.10-4.7.0pre12.95-Base.jar to locate a version number for ProjRed|Core
+[03:32:23] [Server thread/WARN] [ProjRed|Core/]: Mod ProjRed|Core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mrtjp.projectred.ProjectRedCompatibility) - loading
+[03:32:23] [Server thread/TRACE] [ProjRed|Compatibility/]: Using mcmod dependency info : [ProjRed|Core] [ProjRed|Core, ProjRed|Transmission, ProjRed|Exploration, ProjRed|Transportation, TConstruct, ThermalExpansion, ComputerCraft] []
+[03:32:23] [Server thread/DEBUG] [ProjRed|Compatibility/]: Attempting to load the file version.properties from ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar to locate a version number for ProjRed|Compatibility
+[03:32:23] [Server thread/WARN] [ProjRed|Compatibility/]: Mod ProjRed|Compatibility is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mrtjp.projectred.ProjectRedIntegration) - loading
+[03:32:23] [Server thread/TRACE] [ProjRed|Integration/]: Using mcmod dependency info : [ProjRed|Core] [ProjRed|Core] [ProjRed|Fabrication]
+[03:32:23] [Server thread/DEBUG] [ProjRed|Integration/]: Attempting to load the file version.properties from ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar to locate a version number for ProjRed|Integration
+[03:32:23] [Server thread/WARN] [ProjRed|Integration/]: Mod ProjRed|Integration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mrtjp.projectred.ProjectRedTransmission) - loading
+[03:32:23] [Server thread/TRACE] [ProjRed|Transmission/]: Using mcmod dependency info : [ProjRed|Core] [ProjRed|Core] [ProjRed|Expansion, ProjRed|Fabrication]
+[03:32:23] [Server thread/DEBUG] [ProjRed|Transmission/]: Attempting to load the file version.properties from ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar to locate a version number for ProjRed|Transmission
+[03:32:23] [Server thread/WARN] [ProjRed|Transmission/]: Mod ProjRed|Transmission is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mrtjp.projectred.ProjectRedIllumination) - loading
+[03:32:23] [Server thread/TRACE] [ProjRed|Illumination/]: Using mcmod dependency info : [ProjRed|Core] [ProjRed|Core] []
+[03:32:23] [Server thread/DEBUG] [ProjRed|Illumination/]: Attempting to load the file version.properties from ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar to locate a version number for ProjRed|Illumination
+[03:32:23] [Server thread/WARN] [ProjRed|Illumination/]: Mod ProjRed|Illumination is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mrtjp.projectred.ProjectRedExpansion) - loading
+[03:32:23] [Server thread/TRACE] [ProjRed|Expansion/]: Using mcmod dependency info : [ProjRed|Core] [ProjRed|Core, ProjRed|Transmission] []
+[03:32:23] [Server thread/DEBUG] [ProjRed|Expansion/]: Attempting to load the file version.properties from ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar to locate a version number for ProjRed|Expansion
+[03:32:23] [Server thread/WARN] [ProjRed|Expansion/]: Mod ProjRed|Expansion is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mrtjp.projectred.ProjectRedTransportation) - loading
+[03:32:23] [Server thread/TRACE] [ProjRed|Transportation/]: Using mcmod dependency info : [ProjRed|Core] [ProjRed|Core] []
+[03:32:23] [Server thread/DEBUG] [ProjRed|Transportation/]: Attempting to load the file version.properties from ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar to locate a version number for ProjRed|Transportation
+[03:32:23] [Server thread/WARN] [ProjRed|Transportation/]: Mod ProjRed|Transportation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre12.95
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file Railcraft_1.7.10-9.12.2.0.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Railcraft_1.7.10-9.12.2.0.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mods.railcraft.common.core.Railcraft) - loading
+[03:32:23] [Server thread/TRACE] [Railcraft/]: Using mcmod dependency info : [Forge] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining directory saintspack for potential mods
+[03:32:23] [Server thread/DEBUG] [FML/]: No mcmod.info file found in directory saintspack
+[03:32:23] [Server thread/TRACE] [FML/]: Recursing into package defaultpack
+[03:32:23] [Server thread/TRACE] [FML/]: Recursing into package extendedpack
+[03:32:23] [Server thread/TRACE] [FML/]: Recursing into package powerpack
+[03:32:23] [Server thread/TRACE] [FML/]: Recursing into package profiles
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining directory SaintsPack-0.8-Minecraft_1.7.10 for potential mods
+[03:32:23] [Server thread/DEBUG] [FML/]: No mcmod.info file found in directory SaintsPack-0.8-Minecraft_1.7.10
+[03:32:23] [Server thread/TRACE] [FML/]: Recursing into package assets
+[03:32:23] [Server thread/TRACE] [FML/]: Recursing into package assets.saintspack
+[03:32:23] [Server thread/TRACE] [FML/]: Recursing into package assets.saintspack.lang
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file secretroomsmod-1.7.10-4.7.1.413.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file secretroomsmod-1.7.10-4.7.1.413.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.github.abrarsyed.secretroomsmod.common.SecretRooms) - loading
+[03:32:23] [Server thread/TRACE] [secretroomsmod/]: Parsed dependency info : [] [malisisdoors] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file SoulShards-TOW-1.7.10-0.1-RC9-7.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file SoulShards-TOW-1.7.10-0.1-RC9-7.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.whammich.sstow.SSTheOldWays) - loading
+[03:32:23] [Server thread/TRACE] [SSTOW/]: Using mcmod dependency info : [] [MinecraftForge, NotEnoughItems, Waila, CoFHCore] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file tardismod-1.7.10-0.994-124-DS.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file tardismod-1.7.10-0.994-124-DS.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (tardis.TardisMod) - loading
+[03:32:23] [Server thread/TRACE] [TardisMod/]: Using mcmod dependency info : [Forge, darkcore] [darkcore@[0.3,]] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file TConstruct-1.7.10-1.8.8.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file TConstruct-1.7.10-1.8.8.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (tconstruct.TConstruct) - loading
+[03:32:23] [Server thread/TRACE] [TConstruct/]: Parsed dependency info : [Forge@[10.13.3.1384,11.14), Mantle@[1.7.10-0.3.2,)] [Forge@[10.13.3.1384,11.14), Mantle@[1.7.10-0.3.2,), MineFactoryReloaded@[1.7.10R2.8.0RC7,), ThermalExpansion@[1.7.10R4.0.0RC2,), ThermalFoundation@[1.7.10R1.0.0RC3,), armourersWorkshop@[1.7.10-0.28.0,), CoFHAPI|energy, CoFHCore, battlegear2, ZeldaItemAPI, DynamicSkillsAPI, NotEnoughItems, Waila] [UndergroundBiomes]
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file TextureGeneratorLib-1.7.10_vBeta2.jar for potential mods
+[03:32:23] [Server thread/DEBUG] [FML/]: The mod container TextureGeneratorLib-1.7.10_vBeta2.jar appears to be missing an mcmod.info file
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (texturegeneratorlib.TextureGeneratorLib) - loading
+[03:32:23] [Server thread/TRACE] [TextureGeneratorLib/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file TheKitchenMod-1.3.23-1.7.2-10.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file TheKitchenMod-1.3.23-1.7.2-10.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (dk.mrspring.kitchen.Kitchen) - loading
+[03:32:23] [Server thread/TRACE] [kitchen/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file ThermalExpansion-[1.7.10]4.1.5-248.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ThermalExpansion-[1.7.10]4.1.5-248.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (cofh.thermalexpansion.ThermalExpansion) - loading
+[03:32:23] [Server thread/TRACE] [ThermalExpansion/]: Parsed dependency info : [CoFHCore@[1.7.10R3.1.4,1.7.10R3.2.0), ThermalFoundation@[1.7.10R1.2.6,1.7.10R1.3.0)] [CoFHCore@[1.7.10R3.1.4,1.7.10R3.2.0), ThermalFoundation@[1.7.10R1.2.6,1.7.10R1.3.0)] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file ThermalFoundation-[1.7.10]1.2.6-118.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ThermalFoundation-[1.7.10]1.2.6-118.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (cofh.thermalfoundation.ThermalFoundation) - loading
+[03:32:23] [Server thread/TRACE] [ThermalFoundation/]: Parsed dependency info : [CoFHCore@[1.7.10R3.1.4,1.7.10R3.2.0)] [CoFHCore@[1.7.10R3.1.4,1.7.10R3.2.0)] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file TrailMix-4.0.0.jar for potential mods
+[03:32:23] [Server thread/DEBUG] [FML/]: The mod container TrailMix-4.0.0.jar appears to be missing an mcmod.info file
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (trailmix.common.TrailMix) - loading
+[03:32:23] [Server thread/TRACE] [TrailMix/]: Parsed dependency info : [iChunUtil@[4.0.0,)] [iChunUtil@[4.0.0,)] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file Transformers Mod.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Transformers Mod.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (fiskfille.tf.TransformersMod) - loading
+[03:32:23] [Server thread/TRACE] [transformers/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file twilightforest-1.7.10-2.3.8.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file twilightforest-1.7.10-2.3.8.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (twilightforest.TwilightForestMod) - loading
+[03:32:23] [Server thread/TRACE] [TwilightForest/]: Parsed dependency info : [] [] []
+[03:32:23] [Server thread/DEBUG] [FML/]: Examining file witchery-1.7.10-0.24.1.jar for potential mods
+[03:32:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file witchery-1.7.10-0.24.1.jar
+[03:32:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.emoniph.witchery.Witchery) - loading
+[03:32:23] [Server thread/TRACE] [witchery/]: Parsed dependency info : [Forge@[10.13.2.1277,)] [Forge@[10.13.2.1277,), MineFactoryReloaded, NotEnoughItems, Waila, ForgeMultipart, AWWayofTime] []
+[03:32:24] [Server thread/DEBUG] [FML/]: Examining file WTFCaveBiomes-1.7.10_v1.6.jar for potential mods
+[03:32:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file WTFCaveBiomes-1.7.10_v1.6.jar
+[03:32:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (cavebiomes.CaveBiomes) - loading
+[03:32:24] [Server thread/TRACE] [CaveBiomes/]: Parsed dependency info : [WTFCore@[1.7,), TextureGeneratorLib] [UndergroundBiomes, WTFCore@[1.7,), TextureGeneratorLib] []
+[03:32:24] [Server thread/DEBUG] [FML/]: Examining file WTFCore-1.7.10_v1.7.jar for potential mods
+[03:32:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file WTFCore-1.7.10_v1.7.jar
+[03:32:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (wtfcore.WTFCore) - loading
+[03:32:24] [Server thread/TRACE] [WTFCore/]: Parsed dependency info : [] [UndergroundBiomes] []
+[03:32:24] [Server thread/DEBUG] [FML/]: Examining file CodeChickenLib-1.7.10-1.1.3.138-universal.jar for potential mods
+[03:32:24] [Server thread/DEBUG] [FML/]: The mod container CodeChickenLib-1.7.10-1.1.3.138-universal.jar appears to be missing an mcmod.info file
+[03:32:24] [Server thread/DEBUG] [FML/]: Examining file ForgeMultipart-1.7.10-1.2.0.345-universal.jar for potential mods
+[03:32:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+[03:32:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (codechicken.microblock.handler.MicroblockMod) - loading
+[03:32:24] [Server thread/TRACE] [ForgeMicroblock/]: Parsed dependency info : [ForgeMultipart] [ForgeMultipart, *] []
+[03:32:24] [Server thread/DEBUG] [ForgeMicroblock/]: Attempting to load the file version.properties from ForgeMultipart-1.7.10-1.2.0.345-universal.jar to locate a version number for ForgeMicroblock
+[03:32:24] [Server thread/WARN] [ForgeMicroblock/]: Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.345
+[03:32:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (codechicken.multipart.handler.MultipartMod) - loading
+[03:32:24] [Server thread/TRACE] [ForgeMultipart/]: Parsed dependency info : [] [] []
+[03:32:24] [Server thread/DEBUG] [ForgeMultipart/]: Attempting to load the file version.properties from ForgeMultipart-1.7.10-1.2.0.345-universal.jar to locate a version number for ForgeMultipart
+[03:32:24] [Server thread/WARN] [ForgeMultipart/]: Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.345
+[03:32:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (codechicken.multipart.minecraft.MinecraftMultipartMod) - loading
+[03:32:24] [Server thread/TRACE] [McMultipart/]: Parsed dependency info : [] [] []
+[03:32:24] [Server thread/DEBUG] [McMultipart/]: Attempting to load the file version.properties from ForgeMultipart-1.7.10-1.2.0.345-universal.jar to locate a version number for McMultipart
+[03:32:24] [Server thread/WARN] [McMultipart/]: Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.345
+[03:32:24] [Server thread/DEBUG] [FML/]: Examining file ForgeRelocation-1.7.10-0.0.1.4-universal.jar for potential mods
+[03:32:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ForgeRelocation-1.7.10-0.0.1.4-universal.jar
+[03:32:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mrtjp.mcframes.handler.MCFramesMod) - loading
+[03:32:24] [Server thread/TRACE] [MCFrames/]: Parsed dependency info : [] [] []
+[03:32:24] [Server thread/INFO] [MCFrames/]: Mod MCFrames is missing the required element 'name'. Substituting MCFrames
+[03:32:24] [Server thread/DEBUG] [MCFrames/]: Attempting to load the file version.properties from ForgeRelocation-1.7.10-0.0.1.4-universal.jar to locate a version number for MCFrames
+[03:32:24] [Server thread/WARN] [MCFrames/]: Mod MCFrames is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[03:32:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mrtjp.relocation.handler.RelocationMod) - loading
+[03:32:24] [Server thread/TRACE] [ForgeRelocation/]: Using mcmod dependency info : [MrTJPCoreMod] [] []
+[03:32:24] [Server thread/DEBUG] [ForgeRelocation/]: Attempting to load the file version.properties from ForgeRelocation-1.7.10-0.0.1.4-universal.jar to locate a version number for ForgeRelocation
+[03:32:24] [Server thread/WARN] [ForgeRelocation/]: Mod ForgeRelocation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.1.4
+[03:32:24] [Server thread/DEBUG] [FML/]: Examining file ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar for potential mods
+[03:32:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar
+[03:32:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mrtjp.relocationfmp.RelocationFMPMod) - loading
+[03:32:24] [Server thread/TRACE] [RelocationFMP/]: Using mcmod dependency info : [ForgeRelocation, ForgeMultipart] [ForgeRelocation, ForgeMultipart] []
+[03:32:24] [Server thread/DEBUG] [RelocationFMP/]: Attempting to load the file version.properties from ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar to locate a version number for RelocationFMP
+[03:32:24] [Server thread/WARN] [RelocationFMP/]: Mod RelocationFMP is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.1.2
+[03:32:24] [Server thread/DEBUG] [FML/]: Examining file MrTJPCore-1.7.10-1.1.0.33-universal.jar for potential mods
+[03:32:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file MrTJPCore-1.7.10-1.1.0.33-universal.jar
+[03:32:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mrtjp.core.handler.MrTJPCoreMod) - loading
+[03:32:24] [Server thread/TRACE] [MrTJPCoreMod/]: Using mcmod dependency info : [Forge] [] []
+[03:32:24] [Server thread/DEBUG] [MrTJPCoreMod/]: Attempting to load the file version.properties from MrTJPCore-1.7.10-1.1.0.33-universal.jar to locate a version number for MrTJPCoreMod
+[03:32:24] [Server thread/WARN] [MrTJPCoreMod/]: Mod MrTJPCoreMod is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.0.33
+[03:32:24] [Server thread/ERROR] [FML/]: Found a duplicate mod CarpentersBlocks at [/workspaces/server-de-pollos/servidor_minecraft/mods/Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar, /workspaces/server-de-pollos/servidor_minecraft/mods/Carpenter's+Blocks+v3.3.8.2+-+MC+1.7.10.jar]
+[03:32:24] [Server thread/ERROR] [FML/]: Found a duplicate mod securitycraft at [/workspaces/server-de-pollos/servidor_minecraft/mods/[1.7.10] SecurityCraft v1.8.13.jar, /workspaces/server-de-pollos/servidor_minecraft/mods/[1.7.10]+SecurityCraft+v1.8.13.jar]
+[03:32:24] [Server thread/WARN] [FML/]: Can't revert to frozen GameData state without freezing first.
+[03:32:24] [Server thread/INFO] [FML/]: Applying holder lookups
+[03:32:24] [Server thread/INFO] [FML/]: Holder lookups applied
+[03:32:24] [Server thread/INFO] [FML/]: The state engine was in incorrect state CONSTRUCTING and forced into state SERVER_STOPPED. Errors may have been discarded.

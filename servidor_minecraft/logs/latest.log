@@ -1,0 +1,31 @@
+[02:05:59] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[02:06:24] [Server thread/INFO]: Loading properties
+[02:06:24] [Server thread/INFO]: Default game type: SURVIVAL
+[02:06:24] [Server thread/INFO]: Generating keypair
+[02:06:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:06:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:06:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:06:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:06:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:06:31] [Server thread/INFO]: Preparing level "world"
+[02:06:34] [Server thread/INFO]: Preparing start region for level 0
+[02:06:35] [Server thread/INFO]: Preparing spawn area: 16%
+[02:06:35] [Server thread/INFO]: Done (4.294s)! For help, type "help" or "?"
+[02:08:35] [Server thread/INFO]: Thetroll987[/127.150.89.176:50631] logged in with entity id 428 at (74.06820008894616, 70.0, 469.69999998807907)
+[02:08:35] [Server thread/INFO]: Thetroll987 joined the game
+[02:11:06] [Server thread/INFO]: blackdesfail[/127.195.151.45:51591] logged in with entity id 5880 at (9.436459373511445, 70.0, 324.95519847176587)
+[02:11:06] [Server thread/INFO]: blackdesfail joined the game
+[02:18:00] [Server thread/INFO]: blackdesfail has just earned the achievement [achievement.petAchieve1]
+[02:21:02] [Server thread/INFO]: blackdesfail was slain by Thetroll987
+[02:26:47] [Server thread/INFO]: Thetroll987 hit the ground too hard
+[02:34:19] [Server thread/INFO]: Thetroll987 has just earned the achievement [Time to Mine!]
+[02:34:19] [Server thread/INFO]: Thetroll987 has just earned the achievement [Getting an Upgrade]
+[02:43:19] [Server thread/INFO]: <blackdesfail> chat
+[02:43:22] [Server thread/INFO]: <blackdesfail> stark
+[02:48:40] [Server thread/INFO]: Thetroll987 hit the ground too hard
+[02:51:14] [Server thread/INFO]: blackdesfail has just earned the achievement [Cow Tipper]
+[02:52:34] [Server thread/INFO]: Thetroll987 has just earned the achievement [Cow Tipper]
+[02:59:29] [Server thread/INFO]: Thetroll987 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:59:29] [Server thread/INFO]: Thetroll987 left the game
+[02:59:54] [Server thread/INFO]: blackdesfail lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:59:54] [Server thread/INFO]: blackdesfail left the game
